@@ -1,15 +1,15 @@
 # CircuitPython
 This is my repositorie for coding projects 
 
-# Table of Contents 
+## Table of Contents 
 
 
 
 
 
 
-# Hello CircuitPython
-# CircuitPython Servo 
-# CircuitPython LCD
-# CircutPython Photointerupter 
-# CircutPython Distance Sensor 
+## Hello CircuitPython
+## CircuitPython Servo 
+## CircuitPython LCD
+## CircutPython Photointerupter 
+## CircutPython Distance Sensor 
