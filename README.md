@@ -19,9 +19,9 @@ This was my first time using CircutPython but I did have some experince with the
 ### Description
 In this Assingment I was able to get the Metro Express board working, and I coded a fade between yellow and blue with a built in LED.  
 
-### [[Code]] 
+### [Code] 
 
-'''python 
+```python 
 import board
 import neopixel
 import time
@@ -34,8 +34,8 @@ while True:
     time.sleep(.5)
     print("make it yellow!")
     dot.fill((255,255,0))
-    time.sleep(.3)
-''' 
+    time.sleep(.3) 
+```
     
 ## CircuitPython Servo 
 ## CircuitPython LCD
