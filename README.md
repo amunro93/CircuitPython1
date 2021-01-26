@@ -44,5 +44,5 @@ I liked how it was a good laerning assingment for CiruitPython and for some peop
     
 ## CircuitPython Servo 
 ## CircuitPython LCD
-## CircutPython Photointerupter 
-## CircutPython Distance Sensor 
+## CircuitPython Photointerupter 
+## CircuitPython Distance Sensor 
