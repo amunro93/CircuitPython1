@@ -3,8 +3,8 @@ This is my repositorie for coding projects
 
 ## Table of Contents 
 * [Getting Started](#Getting-Started)
-* [Hello CicuitPython](#Hello-CircutPython) 
-* [CiructPython Servo](#CirucitPython-Servo)
+* [Hello CicuitPython](#Hello-CircuitPython) 
+* [CirucitPython Servo](#CirucitPython-Servo)
 * [CircuitPython LCD](#CircuitPython-LCD)
 * [CricuitPython Photointerupter](#CircuitPthyon-Photointerupter)
 * [CircuitPython Distance Sensor](#CircuitPython-Distance-Sensor)
