@@ -38,6 +38,9 @@ while True:
     dot.fill((255,255,0))
     time.sleep(.3) 
 ```
+
+### Reflection
+I liked how it was a good laerning assingment for CiruitPython and for some people the Metro Express board. I iked how the LED was built into the board. For the first assingment of coding I thought it was good beacuse it got are mind thinking about coding after the long summer break, but it wasn't to hard to make are selves feel deafeted.  
     
 ## CircuitPython Servo 
 ## CircuitPython LCD
