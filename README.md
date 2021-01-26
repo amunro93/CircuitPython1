@@ -1,4 +1,4 @@
-## CircutPython
+# CircuitPython
 This is my repositorie for coding projects 
 
 # Table of Contents 
