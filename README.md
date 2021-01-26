@@ -2,9 +2,9 @@
 This is my repositorie for coding projects 
 
 ## Table of Contents 
-*[Getting Started](#Getting-Started)
-*[Hello CicuitPython](#Hello-CircutPython) 
-*[CiructPython Servo](#CirucitPython-Servo)
+* [Getting Started](#Getting-Started)
+* [Hello CicuitPython](#Hello-CircutPython) 
+* [CiructPython Servo](#CirucitPython-Servo)
 
 
 
