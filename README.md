@@ -17,7 +17,9 @@ This was my first time using CircutPython but I did have some experince with the
 
 ## Hello CircuitPython
 ### Description
-In this Assingment I was able to get the Metro Express board working, and I coded a fade between with a built in LED.  
+In this Assingment I was able to get the Metro Express board working, and I coded a fade between yellow and blue with a built in LED.  
+
+### Code 
 
 ## CircuitPython Servo 
 ## CircuitPython LCD
