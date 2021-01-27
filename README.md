@@ -43,6 +43,11 @@ while True:
 I liked how it was a good laerning assingment for CiruitPython and for some people the Metro Express board and also I like how the LED was built into the board. For the first assingment of coding I thought it was good beacuse it got are mind thinking about coding after the long summer break, but it wasn't to hard to make are selves feel deafeted.  
     
 ## CircuitPython Servo 
+### Description
+For this assingment I was challenged to make a servo turn from 0 to 180 degrees. I needed two wires one would make the servo turn to 180 degrees the other to 0. I did this last year so that helped but I didn't remember everything.
+### Image 
+### Code 
+### Reflection 
 ## CircuitPython LCD
 ## CircuitPython Photointerupter 
 ## CircuitPython Distance Sensor 
