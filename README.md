@@ -46,7 +46,7 @@ I liked how it was a good laerning assingment for CiruitPython and for some peop
 ### Description
 For this assingment I was challenged to make a servo turn from 0 to 180 degrees. I needed two wires one would make the servo turn to 180 degrees the other to 0. I did this last year so that helped but I didn't remember everything.
 ### Image 
-![Servo Wiring](image/CircuitPythonServoWiring.jpg)
+![Servo Wiring](CircuitPythonServoWiring.jpg)
 * I got this image from Alden Dent (adent11)
 ### Code 
 ### Reflection 
