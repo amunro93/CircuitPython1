@@ -3,10 +3,10 @@ This is my repositorie for coding projects
 
 ## Table of Contents 
 * [Getting Started](#Getting-Started)
-* [Hello CicuitPython](#Hello-CircuitPython) 
-* [CirucitPython Servo](#CirucitPython-Servo)
+* [Hello CircuitPython](#Hello-CircuitPython) 
+* [CircuitPython Servo](#CirucitPython-Servo)
 * [CircuitPython LCD](#CircuitPython-LCD)
-* [CricuitPython Photointerupter](#CircuitPthyon-Photointerupter)
+* [CircuitPython Photointerupter](#CircuitPthyon-Photointerupter)
 * [CircuitPython Distance Sensor](#CircuitPython-Distance-Sensor)
 
 
